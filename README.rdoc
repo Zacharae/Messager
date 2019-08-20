@@ -3,3 +3,10 @@ login, post items on message board
 ruby 2.3.1
 rails 4.2.6
 *note to self: optimize sql to pg in order to push to heroku
+
+
+xxxx
+
+
+
+security vulnerabilities due to out of date gem files
